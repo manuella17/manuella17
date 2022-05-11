@@ -1,7 +1,7 @@
 - 👋 Oi, meu nome é @manuella17
-- 👀 estou interessada em 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 Estou interessada em usar a plataforma para armazenar programações
+- 🌱 Atualmente estou apredendo a programar
+- 💞️ Procuro colaborar com as atividades propostas pela professora
 - 📫 How to reach me ...
 
 <!---
